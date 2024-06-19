@@ -6,3 +6,4 @@
  email: 00001079556497sp
  rede social: siilvaa_
  <img src="https://media.tenor.com/agAQc8T3ChEAAAAi/so.gif" alt="So Sticker - So Stickers"/>![image](https://github.com/2cverde18/2cverde18/assets/172515466/8d2fc409-6c57-4f8e-98a6-7be78bb6d34c)
+https://editor.p5js.org/00001079556497sp/full/yi_McYm_a
